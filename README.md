@@ -37,19 +37,19 @@ Our AI features use random APIs to run, so sometimes they may be down.
 # SET-UP
 
 Linking/Pairing:
-
+## ` Pair onrender`
+[HERE](https://pairing-raven.onrender.com)
+Or👇
 ## ` Pair On replit`
-<h2 align="left">  <a href="https://replit.com/@dicksonnicky50/Pairing-Raven"><img src="https://repl.it/badge/github/quiec/whatsasena" />
-</a>
-</h2>
+ <h2 align="center"> <a href="https://replit.com/@dicksonnicky50/Pairing-Raven"><img src="https://repl.it/badge/github/quiec/whatsasena" />
 
-    
-<h2 align="center">   
+      
 
 
 
     
-<h2 align="center">   
+
+    
 
 - Fork this repo by tapping  [here](https://github.com/HunterNick2/RAVEN-BOT/fork)
 
@@ -59,8 +59,7 @@ Linking/Pairing:
 - Connect your fork to any suitable cloud host and deploy.
 
 - Add the environmental variables in .env into your hosting site for bot to work.
-</h2>
- 
+ </h2>
      
 
     
@@ -68,8 +67,6 @@ Linking/Pairing:
 
 
 
-
-Modifying the bot structure is at your own risk. We won't offer technical support in case of errors resulting!
 
 
 ## License
